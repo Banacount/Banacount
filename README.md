@@ -1,16 +1,18 @@
-## Hi there 👋
+# hello im Lawinski.
 
-<!--
-**Banacount/Banacount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently studying at USTP.
+- I use nvim as my main IDE.
+- My main driver is Linux Mint with XFCE.
+- I jus love codwing.
 
-Here are some ideas to get you started:
+> I don't have emojis. So this is just text lol. Who
+the hell needs those emojis anyways lmao.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## History:
+#### I am from Philippines.
+#### Age 19.
+#### A proffesional dumbass.
+#### Contacts:
+[Youtube (I do coding streams here)](www.youtube.com/@johval)  
+[Facebook](www.facebook.com/johnrushell.valmoria/)  
+[Discord: @classicdev1](https://motherfuckingwebsite.com/)

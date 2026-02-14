@@ -1,4 +1,4 @@
-# hello im Lawinski.
+# hello im John Rushell.
 
 - Currently studying at USTP.
 - I use nvim as my main IDE.

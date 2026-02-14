@@ -15,4 +15,3 @@ the hell needs those emojis anyways lmao.
 #### Contacts:
 [Youtube (I do coding streams here)](https://www.youtube.com/@johval)  
 [Facebook](https://www.facebook.com/johnrushell.valmoria/)  
-[Discord: @classicdev1](https://motherfuckingwebsite.com/)

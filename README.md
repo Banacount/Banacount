@@ -1,9 +1,9 @@
 # hello im John Rushell.
 
 - Currently studying at USTP.
-- I use nvim as my main IDE.
 - My main driver is Linux Mint with XFCE.
 - I jus love codwing.
+- Currently active on JS, Python and C.
 
 > I don't have emojis. So this is just text lol. Who
 the hell needs those emojis anyways lmao.

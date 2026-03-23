@@ -6,6 +6,7 @@
 - Currently active on JS, Python, C and Lua.
 
 ### PC Specs:
+```
                   -`                     excalibur@excalibur
                  .o+`                    -------------------
                 `ooo/                    OS: Arch Linux x86_64
@@ -26,9 +27,8 @@
 `++:.                           `-/+/    Disk (/): 44.67 GiB / 446.13 GiB (10%) - btrfs
 .`                                 `/    Local IP (wlan0): 192.168.1.24/24
                                          Locale: en_US.UTF-8
-
-
-                                         
+```
+                                      
 > I don't have emojis. So this is just text lol. Who
 the hell needs those emojis anyways lmao.
 

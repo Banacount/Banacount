@@ -4,6 +4,7 @@
 - My main driver is Arch with i3wm.
 - I jus love codwing.
 - Currently active on JS, Python, C and Lua.
+- Jesus Christ is the way.
 
 ### PC Specs:
 ```

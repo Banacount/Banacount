@@ -1,7 +1,7 @@
 # hello im John Rushell.
 
 - Currently studying at USTP.
-- My main driver is Arch with i3wm.
+- My main driver is Arch with dwm.
 - I jus love codwing.
 - Currently active on JS, Python, C and Lua.
 - Jesus Christ is the way.

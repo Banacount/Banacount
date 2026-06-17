@@ -1,13 +1,26 @@
 # hello im John Rushell.
 
+
+
 - Jesus Christ is the way.
 - Currently studying at USTP.
-- Dwm user.
 - I jus love codwing.
-- Currently active on JS, Java, C and Lua.
 - I don't hate Windows; I just don't like it.
+
+<details>
+<summary>Programming Languages I know.</summary>
+
+> Just the basics.
+* Javascript
+* C
+* Java
+* Lua
+</details>
+
 ---
-### PC Specs:
+<details>
+<summary>PC Specs</summary>
+	
 ```
                   -`                     excalibur@excalibur
                  .o+`                    -------------------
@@ -31,10 +44,9 @@
                                          Disk (/): 119.18 GiB / 446.13 GiB (27%) - btrfs
                                          Local IP (enp0s20f0u10): 192.168.101.224/24
                                          Locale: en_US.UTF-8
-
-
 ```
-                                      
+</details>
+
 > Filipino and 19; I like living with my parents and helping them out.
 ---
 #### Contacts:

@@ -8,7 +8,7 @@
 
 
 - Jesus Christ is the way.
-- Currently studying at USTP.
+- Currently studying at USTP CDO (2nd).
 - I jus love codwing.
 - I don't hate Windows; I just don't like it.
 

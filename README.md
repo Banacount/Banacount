@@ -20,6 +20,7 @@
 * C
 * Java
 * Lua
+* Python
 </details>
 
 ---

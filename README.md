@@ -1,5 +1,11 @@
 # hello im John Rushell.
-<img width="854" height="200" alt="github-banner" src="https://github.com/user-attachments/assets/89369a4b-36f1-4fd4-8264-a8eec1f351ed" />
+
+<div align="center">
+<img height="auto" alt="github-banner-1000" width="100%" style="margin-bottom: 20px" src="https://github.com/user-attachments/assets/e3c76e04-3d94-400e-98ac-efc42a322a57" />
+</div>
+
+> Vinland Saga (peak series btw)
+
 
 - Jesus Christ is the way.
 - Currently studying at USTP.

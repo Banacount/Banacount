@@ -1,6 +1,5 @@
 # hello im John Rushell.
-
-
+<img width="854" height="200" alt="github-banner" src="https://github.com/user-attachments/assets/89369a4b-36f1-4fd4-8264-a8eec1f351ed" />
 
 - Jesus Christ is the way.
 - Currently studying at USTP.

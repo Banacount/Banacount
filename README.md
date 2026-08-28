@@ -23,7 +23,7 @@
 </p>
 
 <!-- My own svg test -->
-<img height="auto" alt="github-banner-1000" width="100%" style="margin-bottom: 20px" src="https://github.com/user-attachments/assets/e3c76e04-3d94-400e-98ac-efc42a322a57" />
+<img height="auto" alt="github-banner-1000" width="100%" style="margin-bottom: 20px" src="./test.svg" />
 
 ---
 

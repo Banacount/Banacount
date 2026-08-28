@@ -3,14 +3,20 @@
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&amp;display=swap');
 
+      @keyframes animBox {
+        from { transform: translateX(0px); }
+        to { transform: translateX(460px); }
+      }
+
       .border-bar {
         fill: #9e9e9e;
       }
 
       .fg-bar {
         fill: #e0e0e0;
-        transition: transform 0.3s ease;
         transform-box: fill-box;
+        will-change: transform;
+        animation: animBox 0.5s ease infinite alternate;
       }
 
       .title, .title2 {
@@ -33,26 +39,11 @@
         user-select: none;
       }
 
-      /* Hover triggers */
-      .card-container:hover .title {
-        fill: rgba(0, 0, 0, 0);
-      }
-
-      .card-container:hover .title2 {
-        fill: #000000;
-      }
-
-      .card-container:hover .fg-bar {
-        transform: translate(-6px, -6px);
-      }
     </style>
   </defs>
 
   <!-- Vector Elements -->
   <g class="card-container" id="stats-card">
-    <rect x="0" y="0" width="500" height="100" class="border-bar" />
-    <rect x="6" y="6" width="488" height="88" class="fg-bar" />
-    <text x="30" y="58" class="title">Hover for a hot petite femboy!</text>
-    <text x="30" y="58" class="title2">Ayo Pause..</text>
+    <rect x="0" y="30" width="40" height="40" class="fg-bar" />
   </g>
 </svg>

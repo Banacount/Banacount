@@ -16,7 +16,7 @@
 
       .title {
         font-family: 'Lora', 'Segoe UI', sans-serif;
-        fill: #000;
+        fill: #0044b3;
         font-size: 10px;
       }
 

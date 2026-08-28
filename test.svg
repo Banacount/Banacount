@@ -9,14 +9,14 @@
       }
 
       .bar {
-        fill: #e0e0e0;
+        fill: #4390F3;
         transform-box: fill-box;
         will-change: transform;
       }
 
       .title {
         font-family: 'Lora', 'Segoe UI', sans-serif;
-        fill: #fff;
+        fill: #4390F3;
         font-size: 10px;
       }
 

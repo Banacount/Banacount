@@ -22,6 +22,9 @@
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Banacount&layout=compact&langs_count=7&theme=transparent" alt="Pus" />
 </p>
 
+<!-- My own svg test -->
+<img height="auto" alt="github-banner-1000" width="100%" style="margin-bottom: 20px" src="https://github.com/user-attachments/assets/e3c76e04-3d94-400e-98ac-efc42a322a57" />
+
 ---
 
 <details>

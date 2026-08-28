@@ -12,18 +12,18 @@
 - I jus love codwing.
 - I don't hate Windows; I just don't like it.
 
-<details>
-<summary>Programming Languages I know.</summary>
+---
 
-> Just the basics.
-* Javascript
-* C
-* Java
-* Lua
-* Python
-</details>
+<p align="center">
+	<!-- Github Rating -->
+    <img src="https://github-stats-extended.vercel.app/api?username=Banacount&custom_title=I%20like%20exploring%20%3A3&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" />
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<!-- Programming languages percentage -->
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Banacount&layout=compact&langs_count=7&theme=transparent" alt="Pus" />
+</p>
 
 ---
+
 <details>
 <summary>PC Specs</summary>
 	
@@ -53,7 +53,17 @@
 ```
 </details>
 
-> Filipino and 19; I like living with my parents and helping them out.
+<details>
+<summary>Programming Languages I know.</summary>
+
+> Just the basics.
+* Javascript
+* C
+* Java
+* Lua
+* Python
+</details>
+
 ---
 #### Contacts:
 [Youtube (I do coding streams here)](https://www.youtube.com/@johval)  

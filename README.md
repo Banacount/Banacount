@@ -21,6 +21,8 @@
 <!-- My own svg test -->
 <img height="auto" alt="github-banner-1000" width="100%" style="margin-bottom: 20px" src="./my-ide.svg" />
 
+> Neovim + Kitty 🤌
+
 ---
 
 <details>

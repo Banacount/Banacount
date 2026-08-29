@@ -5,7 +5,7 @@
 > Vinland Saga (peak series btw)
 
 - Still codes by hand.
-- Currently studying at USTP CDO (2nd yearist).
+- Studying at USTP CDO (2nd yearist).
 - I jus love codwing.
 
 ---

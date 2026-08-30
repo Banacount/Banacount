@@ -13,12 +13,12 @@
 ## Tools and Experience
 
 <div align="center">
-	<img height="auto" alt="github-banner-1000" width="210px" src="./tools/js_css_html.svg" />
-	<img height="auto" alt="github-banner-1000" width="210px" src="./tools/express_and_node.svg" />
-	<img height="auto" alt="github-banner-1000" width="210px" src="./tools/hono.svg" />
-	<img height="auto" alt="github-banner-1000" width="210px" src="./tools/react.svg" />
-	<img height="auto" alt="github-banner-1000" width="210px" src="./tools/mysql.svg" />
-	<img height="auto" alt="github-banner-1000" width="210px" src="./tools/mongodb.svg" />
+	<img height="auto" alt="github-banner-1000" width="170px" src="./tools/js_css_html.svg" />
+	<img height="auto" alt="github-banner-1000" width="170px" src="./tools/express_and_node.svg" />
+	<img height="auto" alt="github-banner-1000" width="170px" src="./tools/hono.svg" />
+	<img height="auto" alt="github-banner-1000" width="170px" src="./tools/react.svg" />
+	<img height="auto" alt="github-banner-1000" width="170px" src="./tools/mysql.svg" />
+	<img height="auto" alt="github-banner-1000" width="170px" src="./tools/mongodb.svg" />
 </div>
 
 <br/>

@@ -10,6 +10,8 @@
 
 ---
 
+## Tools and Experience
+
 <p align="center">
 	<!-- Github Rating -->
     <img src="https://github-stats-extended.vercel.app/api?username=Banacount&custom_title=I%20like%20exploring%20%3A3&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" />
@@ -52,17 +54,6 @@
                                          Local IP (enp0s20f0u10): 192.168.101.224/24
                                          Locale: en_US.UTF-8
 ```
-</details>
-
-<details>
-<summary>Programming Languages I know.</summary>
-
-> Just the basics.
-* Javascript
-* C
-* Java
-* Lua
-* Python
 </details>
 
 ---

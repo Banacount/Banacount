@@ -12,6 +12,17 @@
 
 ## Tools and Experience
 
+<div align="center">
+	<img height="auto" alt="github-banner-1000" width="210px" src="./tools/js_css_html.svg" />
+	<img height="auto" alt="github-banner-1000" width="210px" src="./tools/express_and_node.svg" />
+	<img height="auto" alt="github-banner-1000" width="210px" src="./tools/hono.svg" />
+	<img height="auto" alt="github-banner-1000" width="210px" src="./tools/react.svg" />
+	<img height="auto" alt="github-banner-1000" width="210px" src="./tools/mysql.svg" />
+	<img height="auto" alt="github-banner-1000" width="210px" src="./tools/mongodb.svg" />
+</div>
+
+<br/>
+
 <p align="center">
 	<!-- Github Rating -->
     <img src="https://github-stats-extended.vercel.app/api?username=Banacount&custom_title=I%20like%20exploring%20%3A3&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" />

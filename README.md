@@ -6,9 +6,8 @@
 <div align="center">
   <img height="auto" alt="github-banner-1000" width="100%" src="https://github.com/user-attachments/assets/e3c76e04-3d94-400e-98ac-efc42a322a57" />
 </div>
--->
-
 > Vinland Saga (peak series btw)
+-->
 
 - Still codes by hand.
 - Studying at USTP CDO (2nd yearist).

@@ -17,6 +17,6 @@ jobs:
       
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: UCmVGuc7P0_2p6sNySDfcWcA
-          video_id: "x7QOEK7-Kok,iYEdC01mWfY,hhIiZ4YOoQo"
+          # channel_id: UCmVGuc7P0_2p6sNySDfcWcA
+          playlist_id: "PLN2c6GPoS5LM"
           max_videos: 3

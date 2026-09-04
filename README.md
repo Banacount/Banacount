@@ -50,7 +50,7 @@
 
 ## Contacts
 <div align="center">
-<a href="https://banacount.github.io/">
+<a href="https://banacount.github.io/" target="_blank" rel="noopener noreferrer">
   <img src="./personal-site-card.png" alt="Visit My Personal Site" width="60%">
 </a>
 

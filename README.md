@@ -49,9 +49,18 @@
 ---
 
 ## Contacts
-[Youtube (I do coding streams here)](https://www.youtube.com/@johval)  
-[Facebook](https://www.facebook.com/johnrushell.valmoria/)  
-[Personal Site](https://banacount.github.io/)
+<div align="center">
+<a href="https://banacount.github.io/">
+  <img src="./personal-site-card.png" alt="Visit My Personal Site" width="60%">
+</a>
+
+
+	
+{[Youtube](https://www.youtube.com/@johval) ,
+[Facebook](https://www.facebook.com/johnrushell.valmoria/) ,
+[Instagram](https://www.instagram.com/vall.iso/) ,
+[All links](https://banacount.github.io/?page=about)}
+</div>
 
 <details>
 <summary>PC Specs</summary>

@@ -48,6 +48,11 @@
 
 ---
 
+## Contacts
+[Youtube (I do coding streams here)](https://www.youtube.com/@johval)  
+[Facebook](https://www.facebook.com/johnrushell.valmoria/)  
+[Personal Site](https://banacount.github.io/)
+
 <details>
 <summary>PC Specs</summary>
 	
@@ -76,24 +81,4 @@
                                          Locale: en_US.UTF-8
 ```
 </details>
-
----
-#### Contacts:
-[Youtube (I do coding streams here)](https://www.youtube.com/@johval)  
-[Facebook](https://www.facebook.com/johnrushell.valmoria/)  
-[Personal Site](https://banacount.github.io/)
-
-```
-				(  )   (   )  )
-				 ) (   )  (  (
-				 ( )  (    ) )
-				 _____________
-				<_____________> ___
-				|             |/ _ \                You and I have no enemies.
-				|               | | |               Have a darn good day.
-				|               |_| |               Be an example, don't be like me.
-			 ___|             |\___/
-			/    \___________/    \
-			\_____________________/
-```
 

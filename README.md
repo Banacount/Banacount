@@ -54,10 +54,10 @@
 
 
 	
-{[Youtube](https://www.youtube.com/@johval) ,
+{ [Youtube](https://www.youtube.com/@johval) ,
 [Facebook](https://www.facebook.com/johnrushell.valmoria/) ,
 [Instagram](https://www.instagram.com/vall.iso/) ,
-[All links](https://banacount.github.io/?page=about)}
+[All links](https://banacount.github.io/?page=about) }
 </div>
 
 <details>

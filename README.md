@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
 <!-- END YOUTUBE-CARDS -->
 
 </div>

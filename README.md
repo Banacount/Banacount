@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![setup showcase jul-24-2026 & neovim, tmux, dwm](https://ytcards.demolab.com/?id=hhIiZ4YOoQo&title=setup+showcase+jul-24-2026+%26+neovim%2C+tmux%2C+dwm&lang=en&timestamp=1784893426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "setup showcase jul-24-2026 & neovim, tmux, dwm")](https://www.youtube.com/watch?v=hhIiZ4YOoQo)
+[![Filipino dumb BS-IT student codes!? | vibe-coding 2](https://ytcards.demolab.com/?id=x7QOEK7-Kok&title=Filipino+dumb+BS-IT+student+codes%21%3F+%7C+vibe-coding+2&lang=en&timestamp=1787261760&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Filipino dumb BS-IT student codes!? | vibe-coding 2")](https://www.youtube.com/watch?v=x7QOEK7-Kok)
+[![terminal asmr ➜  ~ cd part_1](https://ytcards.demolab.com/?id=iYEdC01mWfY&title=terminal+asmr+%E2%9E%9C++~+cd+part_1&lang=en&timestamp=1782402168&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "terminal asmr ➜  ~ cd part_1")](https://www.youtube.com/watch?v=iYEdC01mWfY)
 <!-- END YOUTUBE-CARDS -->
 
 </div>

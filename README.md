@@ -15,6 +15,7 @@
 - Still codes by hand.
 - Studying at USTP CDO (2nd yearist).
 - I jus love codwing.
+- More on logic/passion code than monetary.
 
 ---
 

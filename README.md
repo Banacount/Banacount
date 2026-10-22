@@ -47,6 +47,12 @@
 
 ---
 
+<div align="center">
+<img height="auto" alt="github-banner-1000" width="80%" style="margin-bottom: 20px" src="https://www.codewars.com/users/Banacount/badges/large" />
+	
+[CodewarsStats](https://www.codewars.com/users/Banacount)
+</div>
+
 ## Contacts
 <div align="center">
 <a href="https://banacount.github.io/" target="_blank" rel="noopener noreferrer">

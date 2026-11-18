@@ -1,8 +1,4 @@
-<div align="center">
 
-[![terminal asmr ➜  ~ cd part_1](https://ytcards.demolab.com/?id=iYEdC01mWfY&title=terminal+asmr+%E2%9E%9C++~+cd+part_1&lang=en&timestamp=1782402168&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "terminal asmr ➜  ~ cd part_1")](https://www.youtube.com/watch?v=iYEdC01mWfY)
-
-</div>
 <!--
 <div align="center">
   <img height="auto" alt="github-banner-1000" width="100%" src="https://github.com/user-attachments/assets/e3c76e04-3d94-400e-98ac-efc42a322a57" />
